@@ -1,3 +1,4 @@
+:resource_path: sprockets.js
 :asset_root: public
 :load_path:
   - app/javascripts
